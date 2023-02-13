@@ -1,0 +1,36 @@
+Adobe After Effects 8.0 Keyframe Data
+
+	Units Per Second	30
+	Source Width	100
+	Source Height	100
+	Source Pixel Aspect Ratio	1
+	Comp Pixel Aspect Ratio	1
+
+Effects	Slider Control #11	Slider #2
+	Frame		
+	1995	50	
+	2013	100	
+	2014	0	
+	2024	50	
+	3335	50	
+	3353	100	
+	3354	0	
+	3364	50	
+
+Effects	Slider Control #12	Slider #2
+	Frame		
+	642	50	
+	660	0	
+	661	100	
+	671	50	
+	1691	50	
+	1709	0	
+	1710	100	
+	1720	50	
+	3638	50	
+	3656	100	
+	3657	0	
+	3667	50	
+
+
+End of Keyframe Data
